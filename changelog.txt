@@ -1,3 +1,5 @@
+1.053
+Speed Optmized 4x faster.
 1.0.52
 - Nexus Only!
 1.0.3
